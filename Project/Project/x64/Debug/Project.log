@@ -1,0 +1,7 @@
+﻿  project.cpp
+C:\Users\CJU\Documents\GitHub\Programming2025class\Project\project.cpp(2,9): warning C4615: #pragma warning: 알 수 없는 사용자 경고 형식입니다.
+C:\Users\CJU\Documents\GitHub\Programming2025class\Project\project.cpp(21,21): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\CJU\Documents\GitHub\Programming2025class\Project\project.cpp(21,21):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  Project.vcxproj -> C:\Users\CJU\Documents\GitHub\Programming2025class\Project\x64\Debug\Project.exe

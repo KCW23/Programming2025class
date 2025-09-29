@@ -2,8 +2,8 @@
 
 int main() {
     char singleChar = 'A';
-    
-    const char* message = "First \tline\nIndented second line\nThird line";
+ 
+    const char* message = "First line\n     Indented second line\nThird line";
     double average = 87.3524;
 
     printf("=== Char/String & Escapes ===\n");
