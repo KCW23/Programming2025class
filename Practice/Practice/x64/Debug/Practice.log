@@ -1,2 +1,4 @@
-﻿  Practice While.cpp
-  Practice.vcxproj -> C:\Users\CJU\Documents\GitHub\Programming2025class\Practice\x64\Debug\Practice.exe
+﻿  Practice do-while.cpp
+  LINK : C:\Users\CJU\Documents\GitHub\Programming2025class\Practice\x64\Debug\Practice.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+Practice While.obj : error LNK2005: main이(가) Practice do-while.obj에 이미 정의되어 있습니다.
+C:\Users\CJU\Documents\GitHub\Programming2025class\Practice\x64\Debug\Practice.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

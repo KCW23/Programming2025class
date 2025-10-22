@@ -5,9 +5,9 @@ int main() {
     int dan;
     int i = 2;
 
-    printf("출력할 구구단의 단수를 입력하세요 (2~9, 0은 전체 출력): ");
+    printf("출력할 구구단 단수 입력 (2~9 또는 0: 전체 출력): ");
     if (scanf("%d", &dan) != 1) {
-        printf("입력 오류가 발생했습니다.\n");
+        printf("입력 오류 발생\n");
         return 1;
     }
 

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F25DBAF7-921D-4DCD-BD8D-722DB176ABF6}|Practice.vcxproj|C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice While.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F25DBAF7-921D-4DCD-BD8D-722DB176ABF6}|Practice.vcxproj|solutionrelative:Practice While.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F25DBAF7-921D-4DCD-BD8D-722DB176ABF6}|Practice.vcxproj|C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice do-while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F25DBAF7-921D-4DCD-BD8D-722DB176ABF6}|Practice.vcxproj|solutionrelative:Practice do-while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practice While.cpp",
-              "DocumentMoniker": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice While.cpp",
-              "RelativeDocumentMoniker": "Practice While.cpp",
-              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice While.cpp*",
-              "RelativeToolTip": "Practice While.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "Practice do-while.cpp",
+              "DocumentMoniker": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice do-while.cpp",
+              "RelativeDocumentMoniker": "Practice do-while.cpp",
+              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Practice\\Practice do-while.cpp",
+              "RelativeToolTip": "Practice do-while.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T00:12:54.796Z",
+              "WhenOpened": "2025-10-22T00:40:38.217Z",
               "EditorCaption": ""
             }
           ]
