@@ -1,19 +1,18 @@
 #include <stdio.h>
 
-int rec_func(int n);  // 함수 선언
+float centi_to_meter(float cm);   // 함수 선언
 
 int main(void)
 {
-    int result;
-    result = rec_func(10);     // 1부터 10까지의 합
-    printf("%d\n", result);    // 실행 결과: 55
+    float res;                    // 반환값 저장 변수
+    res = centi_to_meter(187);    // 함수 호출
+    printf("%.2fm\n", res);       // 결과 출력 (1.87m)
     return 0;
 }
 
-int rec_func(int n)            // 함수 정의
+float centi_to_meter(float cm)    // 함수 정의
 {
-    if (n == 1)                // 종료 조건
-        return 1;
-    else
-        return n + rec_func(n - 1);  // 재귀 호출
+    float meter;                  // 필요한 변수 선언
+    meter = cm / 100.0;           // cm → m 변환
+    return meter;                 // 변환된 값 반환
 }
