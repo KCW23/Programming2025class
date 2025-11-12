@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47367EE-6D15-4EBE-A91D-D809D34F8C53}|Report#3\\Report#3.vcxproj|C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3\\Report#3\\Report#3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B47367EE-6D15-4EBE-A91D-D809D34F8C53}|Report#3\\Report#3.vcxproj|solutionrelative:Report#3\\Report#3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report#3.cpp",
+              "DocumentMoniker": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3\\Report#3\\Report#3.cpp",
+              "RelativeDocumentMoniker": "Report#3\\Report#3.cpp",
+              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3\\Report#3\\Report#3.cpp",
+              "RelativeToolTip": "Report#3\\Report#3.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T13:01:59.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
