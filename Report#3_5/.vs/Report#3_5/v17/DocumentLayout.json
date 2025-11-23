@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Report#3_5.cpp",
               "DocumentMoniker": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3_5\\Report#3_5\\Report#3_5.cpp",
               "RelativeDocumentMoniker": "Report#3_5\\Report#3_5.cpp",
-              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3_5\\Report#3_5\\Report#3_5.cpp*",
-              "RelativeToolTip": "Report#3_5\\Report#3_5.cpp*",
+              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\Report#3_5\\Report#3_5\\Report#3_5.cpp",
+              "RelativeToolTip": "Report#3_5\\Report#3_5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-03T13:11:29.197Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
