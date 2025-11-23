@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\11 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6B12B8-AC5F-4223-B47C-C7404DA54E9D}|11 12.vcxproj|C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\11 12\\11 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F6B12B8-AC5F-4223-B47C-C7404DA54E9D}|11 12.vcxproj|solutionrelative:11 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11 12.cpp",
+              "DocumentMoniker": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\11 12\\11 12.cpp",
+              "RelativeDocumentMoniker": "11 12.cpp",
+              "ToolTip": "C:\\Users\\CJU\\Documents\\GitHub\\Programming2025class\\11 12\\11 12.cpp*",
+              "RelativeToolTip": "11 12.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T00:24:59.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
