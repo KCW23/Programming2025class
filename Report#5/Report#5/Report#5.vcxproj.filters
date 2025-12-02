@@ -18,5 +18,8 @@
     <ClCompile Include="Report#5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Report#5_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
